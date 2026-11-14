@@ -127,7 +127,7 @@ func TestUbuntuVM(t *testing.T) {
 	}
 	u, _ := ParseUname(s["uname"].Lines)
 	o, _ := ParseOSRelease(s["osrelease"].Lines)
-	if u.Arch != "x86_64" || o.ID != "ubuntu" || o.VersionID != "24.04" {
+	if u.Arch != "x86_64" || o.ID != "ubuntu" || o.IDLike != "debian" || o.VersionID != "24.04" {
 		t.Errorf("uname=%+v os=%+v", u, o)
 	}
 	if upd, ok := ParseUpdates(s["updates"].Lines); !ok || upd.Total != 0 {

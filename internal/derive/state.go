@@ -65,7 +65,7 @@ func (s *State) Update(sec map[string]parse.Section, now time.Time) Snapshot {
 	// host
 	snap.Host.Hostname, _ = parse.ParseFirstLine(lines("hostname"))
 	if o, ok := parse.ParseOSRelease(lines("osrelease")); ok {
-		snap.Host.OS = o.PrettyName
+		snap.Host.OS, snap.Host.OSID, snap.Host.OSLike = o.PrettyName, o.ID, o.IDLike
 	}
 	if u, ok := parse.ParseUname(lines("uname")); ok {
 		snap.Host.Kernel, snap.Host.Arch = u.Release, u.Arch

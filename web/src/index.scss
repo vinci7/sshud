@@ -132,6 +132,8 @@ body { margin: 0; }
 // the status tag never shrinks; a long name is truncated instead
 .sb-card__head .cds--tag, .sb-detail__title .cds--tag { flex-shrink: 0; }
 .sb-card__name, .sb-card__sub { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+.sb-card__name { margin-right: auto; }
+.sb-platform { flex-shrink: 0; fill: $icon-secondary; }
 .sb-card__name a { color: inherit; text-decoration: none; &:hover { text-decoration: underline; } }
 .sb-card__sub { margin-top: $spacing-02; }
 .sb-card__rings { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); margin: $spacing-06 0 $spacing-05; flex: 1; }

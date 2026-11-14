@@ -39,6 +39,8 @@ type Snapshot struct {
 type Host struct {
 	Hostname string  `json:"hostname,omitempty"`
 	OS       string  `json:"os,omitempty"`
+	OSID     string  `json:"osId,omitempty"`   // os-release ID ("dsm" on Synology)
+	OSLike   string  `json:"osLike,omitempty"` // os-release ID_LIKE
 	Kernel   string  `json:"kernel,omitempty"`
 	Arch     string  `json:"arch,omitempty"`
 	Uptime   float64 `json:"uptime,omitempty"` // seconds

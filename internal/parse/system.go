@@ -151,7 +151,7 @@ func ParseUname(lines []string) (Uname, bool) {
 
 // OSRelease holds selected fields of /etc/os-release.
 type OSRelease struct {
-	ID, VersionID, PrettyName string
+	ID, IDLike, VersionID, PrettyName string
 }
 
 // ParseOSRelease parses /etc/os-release.
@@ -166,6 +166,8 @@ func ParseOSRelease(lines []string) (OSRelease, bool) {
 		switch k {
 		case "ID":
 			o.ID = v
+		case "ID_LIKE":
+			o.IDLike = v
 		case "VERSION_ID":
 			o.VersionID = v
 		case "PRETTY_NAME":

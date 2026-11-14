@@ -1,9 +1,11 @@
 import { Button, SkeletonPlaceholder, Tag, Tile, Toggletip, ToggletipButton, ToggletipContent, Tooltip } from '@carbon/react';
 import { Renew, WarningAltFilled } from '@carbon/icons-react';
 import Ring from './Ring.jsx';
+import PlatformIcon from './PlatformIcon.jsx';
 import { t } from '../lib/i18n.js';
 import { ago, bytes, duration, rate, shortOS } from '../lib/format.js';
 import { level, mainDisk, worst } from '../lib/thresholds.js';
+import { platform } from '../lib/platform.js';
 import { retry } from '../lib/api.js';
 import { machinePath, navigate, onLinkClick } from '../lib/router.js';
 
@@ -29,7 +31,7 @@ export default function MachineCard({ machine, update }) {
   const { status, s, disk, levels, bar } = cardState(update);
   const partial = status === 'ok' && (s?.failed?.length > 0 || s?.probeOutdated);
   const kind = update?.error?.kind ?? 'internal';
-  const sub = [shortOS(s?.host?.os), s?.host?.arch, s && `${s.host.cores}C/${bytes(s.mem?.total)}`]
+  const sub = [s && platform(s).label, shortOS(s?.host?.os), s?.host?.arch, s && `${s.host.cores}C/${bytes(s.mem?.total)}`]
     .filter(Boolean)
     .join(' · ');
 
@@ -43,6 +45,7 @@ export default function MachineCard({ machine, update }) {
       }}
     >
       <div className="sb-card__head">
+        <PlatformIcon snapshot={s} />
         <h3 className="sb-card__name" title={machine.name}>
           <a href={machinePath(machine.id)} onClick={onLinkClick}>
             {machine.name}
