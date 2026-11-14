@@ -1,0 +1,302 @@
+@@stat1
+cpu  7600 0 6283 5658040 3797 0 242 20287 0 0
+cpu0 4004 0 3065 2829903 2106 0 148 9529 0 0
+cpu1 3596 0 3218 2828137 1691 0 93 10757 0 0
+intr 4925075 93 9 0 0 989 0 2 0 1 0 0 32 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12319 10325 0 56626 51822 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ctxt 2769550
+btime 1794554799
+processes 4550
+procs_running 1
+procs_blocked 0
+softirq 2086691 1 663978 14 112683 1216 0 1246 1177603 0 129950
+@@stat2
+cpu  7601 0 6283 5658140 3797 0 242 20287 0 0
+cpu0 4004 0 3065 2829953 2106 0 148 9529 0 0
+cpu1 3596 0 3218 2828186 1691 0 93 10757 0 0
+intr 4925195 93 9 0 0 989 0 2 0 1 0 0 32 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12319 10325 0 56628 51825 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ctxt 2769619
+btime 1794554799
+processes 4552
+procs_running 1
+procs_blocked 0
+softirq 2086756 1 663993 14 112688 1216 0 1246 1177632 0 129966
+@@meminfo
+MemTotal:         974968 kB
+MemFree:          187900 kB
+MemAvailable:     737028 kB
+Buffers:           21588 kB
+Cached:           537748 kB
+SwapCached:            0 kB
+Active:           171224 kB
+Inactive:         465408 kB
+Active(anon):      64644 kB
+Inactive(anon):    32476 kB
+Active(file):     106580 kB
+Inactive(file):   432932 kB
+Unevictable:       39204 kB
+Mlocked:           35204 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Zswap:                 0 kB
+Zswapped:              0 kB
+Dirty:               884 kB
+Writeback:             0 kB
+AnonPages:        116484 kB
+Mapped:           190932 kB
+Shmem:              5120 kB
+KReclaimable:      23464 kB
+Slab:              72884 kB
+SReclaimable:      23464 kB
+SUnreclaim:        49420 kB
+KernelStack:        3216 kB
+PageTables:         4020 kB
+SecPageTables:         0 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      487484 kB
+Committed_AS:     830716 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       20736 kB
+VmallocChunk:          0 kB
+Percpu:             1088 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:     22528 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:           87360 kB
+Unaccepted:            0 kB
+Balloon:               0 kB
+GPUActive:             0 kB
+GPUReclaim:            0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      107248 kB
+DirectMap2M:      935936 kB
+DirectMap1G:           0 kB
+@@loadavg
+0.24 0.11 0.10 1/200 4553
+@@uptime
+28497.09 56581.41
+@@netdev
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:  363532    2384    0    0    0     0          0         0   363532    2384    0    0    0     0       0          0
+  ens3: 15898836   61967    0    0    0     0          0         0 31212949   61976    0    0    0     0       0          0
+@@df
+Filesystem     1024-blocks    Used Available Capacity Mounted on
+tmpfs                97500    1084     96416       2% /run
+efivarfs               256       8       244       3% /sys/firmware/efi/efivars
+/dev/sda1         46212176 2229776  43966016       5% /
+tmpfs               487484       0    487484       0% /dev/shm
+tmpfs                 5120       0      5120       0% /run/lock
+/dev/sda16          901520   87024    751368      11% /boot
+/dev/sda15          106832    6250    100582       6% /boot/efi
+tmpfs                97496      12     97484       1% /run/user/1001
+@@uname
+Linux 7.0.0-1013-oracle x86_64
+@@hostname
+web-1
+@@osrelease
+PRETTY_NAME="Ubuntu 24.04.5 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.5 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+@@conf
+clk_tck 100
+pagesize 4096
+@@snmp
+Ip: Forwarding DefaultTTL InReceives InHdrErrors InAddrErrors ForwDatagrams InUnknownProtos InDiscards InDelivers OutRequests OutDiscards OutNoRoutes ReasmTimeout ReasmReqds ReasmOKs ReasmFails FragOKs FragFails FragCreates OutTransmits
+Ip: 2 64 63784 0 1 0 0 0 63768 63766 0 9 0 0 0 0 0 0 0 63766
+Icmp: InMsgs InErrors InCsumErrors InDestUnreachs InTimeExcds InParmProbs InSrcQuenchs InRedirects InEchos InEchoReps InTimestamps InTimestampReps InAddrMasks InAddrMaskReps OutMsgs OutErrors OutRateLimitGlobal OutRateLimitHost OutDestUnreachs OutTimeExcds OutParmProbs OutSrcQuenchs OutRedirects OutEchos OutEchoReps OutTimestamps OutTimestampReps OutAddrMasks OutAddrMaskReps
+Icmp: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 0 0 0 10 0 0 0 0 0 0 0 0 0 0
+IcmpMsg: OutType3
+IcmpMsg: 10
+Tcp: RtoAlgorithm RtoMin RtoMax MaxConn ActiveOpens PassiveOpens AttemptFails EstabResets CurrEstab InSegs OutSegs RetransSegs InErrs OutRsts InCsumErrors
+Tcp: 1 200 120000 -1 4707 700 594 30 8 59810 60571 91 0 102 0
+Udp: InDatagrams NoPorts InErrors OutDatagrams RcvbufErrors SndbufErrors InCsumErrors IgnoredMulti MemErrors
+Udp: 3960 0 0 3960 0 0 0 0 0
+UdpLite: InDatagrams NoPorts InErrors OutDatagrams RcvbufErrors SndbufErrors InCsumErrors IgnoredMulti MemErrors
+UdpLite: 0 0 0 0 0 0 0 0 0
+@@diskstats
+   7       0 loop0 49 0 974 364 0 0 0 0 0 364 364 0 0 0 0 0 0
+   7       1 loop1 57 0 998 292 0 0 0 0 0 293 292 0 0 0 0 0 0
+   7       2 loop2 1128 0 81526 2881 0 0 0 0 0 2407 2881 0 0 0 0 0 0
+   7       3 loop3 11 0 28 1 0 0 0 0 0 2 1 0 0 0 0 0 0
+   7       4 loop4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   7       5 loop5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   7       6 loop6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   7       7 loop7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   8       0 sda 6778 2897 897757 35273 21925 8836 3305758 171633 0 51709 207585 170 95 946016 678 0 0
+   8       1 sda1 5932 2199 855575 31170 21899 8806 3305394 171254 0 52923 203103 170 95 946016 678 0 0
+   8      14 sda14 236 0 2384 1102 0 0 0 0 0 976 1102 0 0 0 0 0 0
+   8      15 sda15 193 667 19590 1478 2 0 2 4 0 923 1483 0 0 0 0 0 0
+ 259       0 sda16 190 31 13496 809 19 22 258 371 0 1005 1181 0 0 0 0 0 0
+@@procs
+1 547 905 3504 systemd
+10 0 12 0 kworker/0:0H-kblockd
+1188 86 32 1380 dbus-daemon
+1194 44 75 1947 polkitd
+1200 312 73 10739 snapd
+1213 25 29 2204 systemd-logind
+1214 27 31 3382 udisksd
+1227 30 36 1509 rsyslogd
+1232 32 78 475 iscsid
+1233 0 0 3529 iscsid
+1263 2 7 689 cron
+127 0 0 0 card0-crtc0
+1287 39 13 5772 unattended-upgr
+13 0 0 0 kworker/R-mm_percpu_wq
+1333 21 37 3259 ModemManager
+1338 0 2 535 agetty
+1358 0 1 485 agetty
+14 0 15 0 ksoftirqd/0
+15 0 533 0 pr/ttyS0
+16 0 100 0 rcu_sched
+1699 1143 331 5013 updater
+17 0 0 0 rcu_exp_par_gp_kthread_worker/0
+1707 233 468 5360 agent
+1768 3150 669 5653 gomon
+1789 1391 211 6455 oci-wlp
+1796 0 0 1769 sudo
+1797 1330 558 5962 runcommand
+18 0 0 0 rcu_exp_gp_kthread_worker
+1820 11 61 2051 sshd
+188 0 0 0 kworker/R-raid5wq
+19 0 21 0 migration/0
+2 13 0 0 kthreadd
+20 0 0 0 kprobe-optimizer
+2004 0 0 0 kworker/R-tls-strp
+21 0 0 0 idle_inject/0
+210 0 0 0 kworker/R-iscsi_conn_cleanup
+22 0 0 0 cpuhp/0
+2292 526 133 12124 fwupd
+23 0 0 0 cpuhp/1
+237 0 2 0 kworker/0:1H-kblockd
+24 0 0 0 idle_inject/1
+243 0 27 0 jbd2/sda1-8
+244 0 0 0 kworker/R-ext4-rsv-conversion
+25 0 17 0 migration/1
+26 0 6 0 ksoftirqd/1
+28 0 0 0 kworker/1:0H-kblockd
+29 0 0 0 kdevtmpfs
+3 0 0 0 pool_workqueue_release
+30 0 0 0 kworker/R-inet_frag_wq
+31 0 0 0 rcu_tasks_kthread
+32 0 0 0 rcu_tasks_rude_kthread
+324 73 169 3032 systemd-journal
+33 0 0 0 kauditd
+34 1 0 0 khungtaskd
+346 0 0 0 kworker/R-kmpathd
+347 0 0 0 kworker/R-kmpath_handlerd
+348 0 0 0 kworker/R-nvme-wq
+349 0 0 0 kworker/R-nvme-reset-wq
+35 0 0 0 oom_reaper
+350 0 0 0 kworker/R-nvme-delete-wq
+351 0 0 0 kworker/R-nvme-auth-wq
+37 0 0 0 kworker/R-writeback
+377 96 181 6809 multipathd
+38 0 133 0 kcompactd0
+383 0 15 0 kworker/1:1H-kblockd
+4 0 0 0 kworker/R-rcu_gp
+40 0 0 0 ksmd
+403 49 37 2075 systemd-udevd
+404 0 0 0 psimon
+41 0 0 0 kworker/R-kblockd
+42 0 0 0 kworker/R-blkcg_punt_bio
+4229 0 85 0 kworker/1:1-events
+4234 0 12 0 kworker/u8:0-efi_rts_wq
+4251 0 57 0 kworker/0:0-cgroup_free
+4252 0 11 0 kworker/u8:1-flush-8:0
+4270 0 8 0 kworker/u8:2-writeback
+43 0 0 0 kworker/R-kintegrityd
+4305 0 0 0 kworker/1:0-cgroup_release
+4311 0 8 0 kworker/0:1-events
+4321 0 0 0 kworker/1:2-events
+4324 0 0 0 kworker/u8:3-flush-8:0
+4325 0 0 0 kworker/u8:4
+4332 0 0 0 kworker/0:2-events
+4476 0 0 0 kworker/0:3
+4480 2 1 2549 sshd
+4483 0 0 0 psimon
+4485 37 8 2846 systemd
+4486 0 0 0 kworker/1:3-cgroup_free
+4487 0 0 877 (sd-pam)
+45 0 0 0 irq/9-acpi
+4547 0 0 1749 sshd
+4548 0 0 468 sh
+4564 0 0 417 cat
+4565 0 0 896 awk
+46 0 0 0 kworker/R-tpm_dev_wq
+47 0 0 0 kworker/R-ata_sff
+48 0 0 0 kworker/R-md_bitmap
+49 0 0 0 kworker/R-md_llbitmap_io
+5 0 0 0 kworker/R-sync_wq
+50 0 0 0 kworker/R-md_llbitmap_unplug
+51 0 0 0 kworker/R-edac-poller
+52 0 0 0 kworker/R-devfreq_wq
+53 0 0 0 watchdogd
+54 0 0 0 kworker/R-quota_events_unbound
+56 0 10 0 kswapd0
+562 0 7 0 jbd2/sda16-8
+563 0 0 0 kworker/R-ext4-rsv-conversion
+57 0 0 0 ecryptfs-kthread
+58 0 0 0 kworker/R-kthrotld
+59 0 0 0 kworker/R-acpi_thermal_pm
+6 0 0 0 kworker/R-kvfree_rcu_reclaim
+60 0 0 0 scsi_eh_0
+61 0 0 0 kworker/R-scsi_tmf_0
+62 0 0 0 scsi_eh_1
+63 0 0 0 kworker/R-scsi_tmf_1
+64 0 0 0 scsi_eh_2
+65 0 0 0 kworker/R-scsi_tmf_2
+659 6 7 962 rpcbind
+671 96 84 3291 systemd-resolve
+676 20 26 1975 systemd-timesyn
+69 0 0 0 kworker/R-mld
+699 0 0 0 kworker/R-rpciod
+7 0 0 0 kworker/R-slub_flushwq
+701 0 0 0 kworker/R-xprtiod
+71 0 0 0 kworker/R-ipv6_addrconf
+72 0 0 0 kworker/R-kstrp
+74 0 0 0 kworker/u9:0
+8 0 0 0 kworker/R-netns
+818 0 0 0 kworker/R-cfg80211
+86 0 0 0 kworker/R-charger_manager
+885 6 10 2451 systemd-network
+@@users
+@@docker
+@@err
+@@thermal
+@@addr
+1: lo    inet 127.0.0.1/8 scope host lo\       valid_lft forever preferred_lft forever
+1: lo    inet6 ::1/128 scope host noprefixroute \       valid_lft forever preferred_lft forever
+2: ens3    inet 192.0.2.10/24 metric 100 brd 192.0.2.255 scope global dynamic ens3\       valid_lft 57939sec preferred_lft 57939sec
+2: ens3    inet6 fe80::1/64 scope link \       valid_lft forever preferred_lft forever
+@@updates
+
+Expanded Security Maintenance for Applications is not enabled.
+
+0 updates can be applied immediately.
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+@@reboot
+no

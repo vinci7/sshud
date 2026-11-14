@@ -1,0 +1,78 @@
+@@stat1
+cpu  1200000 3000 400000 90000000 50000 0 9000 0
+cpu0 300000 750 100000 22500000 12500 0 2250 0
+cpu1 300000 750 100000 22500000 12500 0 2250 0
+cpu2 300000 750 100000 22500000 12500 0 2250 0
+cpu3 300000 750 100000 22500000 12500 0 2250 0
+@@stat2
+cpu  1200100 3000 400040 90000040 50020 0 9000 0
+cpu0 300100 750 100040 22500010 12505 0 2250 0
+cpu1 300000 750 100000 22500010 12505 0 2250 0
+cpu2 300000 750 100000 22500010 12505 0 2250 0
+cpu3 300000 750 100000 22500010 12505 0 2250 0
+@@meminfo
+MemTotal:         948524 kB
+MemFree:           61236 kB
+MemAvailable:     512340 kB
+Buffers:           70112 kB
+Cached:           401220 kB
+Shmem:              9876 kB
+SReclaimable:      29344 kB
+SwapTotal:        102396 kB
+SwapFree:          51200 kB
+@@loadavg
+1.52 1.10 0.98 3/212 30111
+@@uptime
+3888000.11 14400000.00
+@@netdev
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo: 812345678 2000000    0    0    0     0          0         0 812345678 2000000    0    0    0     0       0          0
+  eth0: 98765432100 120000000    0    0    0     0          0     20000 45678901234 98000000    0    0    0     0       0          0
+ wlan0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+@@df
+Filesystem     1024-blocks     Used Available Capacity Mounted on
+/dev/root         29561392 25120044   3209184      89% /
+devtmpfs            340460        0    340460       0% /dev
+tmpfs               474260        0    474260       0% /dev/shm
+tmpfs               189704     1200    188504       1% /run
+tmpfs                 5120        4      5116       1% /run/lock
+/dev/mmcblk0p1      522228    62176    460052      12% /boot/firmware
+@@uname
+Linux 6.6.51+rpt-rpi-v7 armv7l
+@@hostname
+pi-1
+@@osrelease
+PRETTY_NAME="Raspbian GNU/Linux 12 (bookworm)"
+NAME="Raspbian GNU/Linux"
+VERSION_ID="12"
+ID=raspbian
+ID_LIKE=debian
+@@conf
+clk_tck 100
+pagesize 4096
+@@snmp
+Tcp: RtoAlgorithm RtoMin RtoMax MaxConn ActiveOpens PassiveOpens AttemptFails EstabResets CurrEstab InSegs OutSegs RetransSegs InErrs OutRsts InCsumErrors
+Tcp: 1 200 120000 -1 900000 120000 3000 9000 14 200000000 210000000 400000 0 50000 0
+@@diskstats
+ 179       0 mmcblk0 2100000 30000 90000000 600000 9000000 4000000 210000000 9000000 0 7000000 9600000 0 0 0 0
+ 179       1 mmcblk0p1 400 0 30000 300 2 0 2 0 0 300 300 0 0 0 0
+ 179       2 mmcblk0p2 2099000 30000 89960000 599000 8999998 4000000 209999998 9000000 0 6999000 9599000 0 0 0 0
+@@procs
+1 900 3000 2600 systemd
+512 210000 80000 65000 AdGuardHome
+701 1200 400 1500 sshd
+@@users
+alice    pts/0        2026-11-13 21:02 (192.0.2.99)
+@@docker
+@@err
+@@thermal
+cpu-thermal 51540
+@@addr
+1: lo    inet 127.0.0.1/8 scope host lo\       valid_lft forever preferred_lft forever
+2: eth0    inet 192.0.2.40/24 brd 192.0.2.255 scope global dynamic noprefixroute eth0\       valid_lft 80000sec preferred_lft 70000sec
+2: eth0    inet6 2001:db8::40/64 scope global dynamic mngtmpaddr noprefixroute \       valid_lft 86000sec preferred_lft 14000sec
+@@updates
+@@err
+@@reboot
+no

@@ -1,0 +1,88 @@
+@@version
+000000000000
+@@stat1
+cpu  91200 120 40210 9120400 2210 0 1310 4400 0 0
+cpu0 45600 60 20105 4560200 1105 0 655 2200 0 0
+cpu1 45600 60 20105 4560200 1105 0 655 2200 0 0
+@@netdev0
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:  120400    1500    0    0    0     0          0         0   120400    1500    0    0    0     0       0          0
+  ens3: 5230011200 4100200    0    0    0     0          0         0 1830022100 2900100    0    0    0     0       0          0
+@@uptime0
+1209600.10 2400000.00
+@@stat2
+cpu  91212 120 40214 9120480 2210 0 1310 4404 0 0
+cpu0 45606 60 20107 4560240 1105 0 655 2202 0 0
+cpu1 45606 60 20107 4560240 1105 0 655 2202 0 0
+@@meminfo
+MemTotal:        7834260 kB
+MemFree:         4102440 kB
+MemAvailable:    6210012 kB
+Buffers:            4120 kB
+Cached:          2010332 kB
+Shmem:             18240 kB
+SReclaimable:     190120 kB
+SwapTotal:       4194300 kB
+SwapFree:        4194300 kB
+@@loadavg
+0.12 0.18 0.21 1/312 98211
+@@uptime
+1209600.60 2400001.00
+@@netdev
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:  120400    1500    0    0    0     0          0         0   120400    1500    0    0    0     0       0          0
+  ens3: 5230211200 4100400    0    0    0     0          0         0 1830062100 2900180    0    0    0     0       0          0
+@@df
+Filesystem                  1024-blocks    Used Available Capacity Mounted on
+devtmpfs                           4096       0      4096       0% /dev
+tmpfs                           3917128       0   3917128       0% /dev/shm
+tmpfs                           1566852    9116   1557736       1% /run
+/dev/mapper/ocivolume-root     36606976 9102336  27504640      25% /
+/dev/mapper/ocivolume-oled     10475520  262144  10213376       3% /var/oled
+/dev/sda2                       1038336  412160    626176      40% /boot
+/dev/sda1                        102156    7244     94912       8% /boot/efi
+tmpfs                            783424       0    783424       0% /run/user/1000
+@@uname
+Linux 5.15.0-209.161.7.2.el9uek.x86_64 x86_64
+@@hostname
+ol-1
+@@osrelease
+NAME="Oracle Linux Server"
+VERSION="9.4"
+ID="ol"
+ID_LIKE="fedora"
+VERSION_ID="9.4"
+PRETTY_NAME="Oracle Linux Server 9.4"
+@@conf
+clk_tck 100
+pagesize 4096
+@@snmp
+Tcp: RtoAlgorithm RtoMin RtoMax MaxConn ActiveOpens PassiveOpens AttemptFails EstabResets CurrEstab InSegs OutSegs RetransSegs InErrs OutRsts InCsumErrors
+Tcp: 1 200 120000 -1 81200 9100 210 400 6 3100200 2900100 1200 0 900 0
+@@diskstats
+   8       0 sda 412000 1200 31200000 90000 920000 410000 61200000 400000 0 300000 490000 0 0 0 0
+   8       1 sda1 200 0 9000 40 2 0 2 0 0 40 40 0 0 0 0
+   8       2 sda2 900 0 61000 300 30 0 2400 20 0 300 320 0 0 0 0
+   8       3 sda3 410800 1200 31120000 89600 919968 410000 61197598 399980 0 299600 489600 0 0 0 0
+ 252       0 dm-0 380000 0 29000000 88000 1200000 0 58000000 420000 0 280000 508000 0 0 0 0
+ 252       1 dm-1 30000 0 2100000 1500 120000 0 3197598 9000 0 20000 10500 0 0 0 0
+@@procs
+1 3100 1900 3400 systemd
+812 900 300 6100 sshd
+1203 41000 12000 210400 java
+1488 2200 900 18800 oracle-cloud-agent
+@@users
+alice    pts/0        2026-11-13 22:10 (192.0.2.99)
+@@docker
+@@err
+@@cgroup
+@@thermal
+@@addr
+1: lo    inet 127.0.0.1/8 scope host lo\       valid_lft forever preferred_lft forever
+2: ens3    inet 192.0.2.60/24 brd 192.0.2.255 scope global dynamic noprefixroute ens3\       valid_lft 86000sec preferred_lft 86000sec
+@@updates
+@@err
+@@reboot
+no

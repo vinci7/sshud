@@ -1,0 +1,12 @@
+/bin/
+/web/node_modules/
+/web/dist/
+# local dev configs may contain hosts and key paths
+/local/
+*.local.yaml
+*.db
+*.local.json
+data/
+wiki/loop/shots/
+.superpowers/
+/dist/

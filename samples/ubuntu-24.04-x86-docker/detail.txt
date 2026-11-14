@@ -1,0 +1,902 @@
+@@stat1
+cpu  87464660 244873224 33091662 6544314104 16125282 0 6108133 0 0 0
+cpu0 2235566 153707 1496312 424818134 1425792 0 3424463 0 0 0
+cpu1 1820599 127258 1312226 429821220 873033 0 296309 0 0 0
+cpu2 6948101 380219 2605719 421399347 1218587 0 129989 0 0 0
+cpu3 5090612 199379 2214985 424433951 1077605 0 99017 0 0 0
+cpu4 15322532 78034655 3442194 334559014 798963 0 101413 0 0 0
+cpu5 5073129 148240 2122905 424815457 1198843 0 89443 0 0 0
+cpu6 15068287 63634932 3421195 349281100 822152 0 101790 0 0 0
+cpu7 9632322 461222 3562068 414674808 1206921 0 109221 0 0 0
+cpu8 3167679 77263 2257461 424364565 1403597 0 1261790 0 0 0
+cpu9 2033300 75724 1841902 428792180 1186687 0 71588 0 0 0
+cpu10 2848925 121900 1528213 428325108 1082284 0 71366 0 0 0
+cpu11 2203388 97075 1259696 429732223 828939 0 70035 0 0 0
+cpu12 5242750 48412413 1836789 377676041 626293 0 68715 0 0 0
+cpu13 1923585 88725 1234618 430067762 854419 0 69595 0 0 0
+cpu14 5619440 52722524 1584440 373277957 623808 0 70025 0 0 0
+cpu15 3234437 137981 1370932 428275229 897351 0 73368 0 0 0
+intr 33227161681 135 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 4 1 1 0 6632 0 0 0 0 0 0 0 166 167 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 29167 1950729750 1137298 1653282 3504273 1610831 4879283 2067971 2874922 1396897 4926551 2086019 6027280 2247885 4231806 2026538 1741307 2642940 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 509 1633 844935375 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ctxt 33827383827
+btime 1790231499
+processes 55684604
+procs_running 2
+procs_blocked 0
+softirq 14320686411 78 1216468992 4032927 906101767 974959 0 31229913 4053989231 548005 3812373243
+@@stat2
+cpu  87464663 244873274 33091664 6544314849 16125283 0 6108134 0 0 0
+cpu0 2235566 153707 1496312 424818183 1425792 0 3424464 0 0 0
+cpu1 1820599 127258 1312226 429821270 873033 0 296309 0 0 0
+cpu2 6948101 380219 2605719 421399397 1218587 0 129989 0 0 0
+cpu3 5090613 199379 2214986 424434000 1077605 0 99017 0 0 0
+cpu4 15322532 78034706 3442194 334559014 798963 0 101413 0 0 0
+cpu5 5073130 148240 2122905 424815506 1198843 0 89443 0 0 0
+cpu6 15068287 63634932 3421195 349281150 822152 0 101790 0 0 0
+cpu7 9632322 461222 3562068 414674858 1206921 0 109221 0 0 0
+cpu8 3167679 77263 2257461 424364615 1403597 0 1261790 0 0 0
+cpu9 2033300 75724 1841902 428792230 1186687 0 71588 0 0 0
+cpu10 2848925 121900 1528213 428325158 1082284 0 71366 0 0 0
+cpu11 2203388 97075 1259696 429732273 828939 0 70035 0 0 0
+cpu12 5242750 48412413 1836789 377676091 626293 0 68715 0 0 0
+cpu13 1923585 88725 1234618 430067812 854419 0 69595 0 0 0
+cpu14 5619441 52722524 1584440 373278006 623809 0 70025 0 0 0
+cpu15 3234437 137981 1370933 428275279 897351 0 73368 0 0 0
+intr 33227164540 135 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 4 1 1 0 6632 0 0 0 0 0 0 0 166 167 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 29167 1950729759 1137298 1653282 3504273 1610831 4879283 2067971 2874922 1396897 4926551 2086023 6027280 2247885 4231806 2026538 1741307 2642940 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 509 1633 844935379 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ctxt 33827386217
+btime 1790231499
+processes 55684607
+procs_running 2
+procs_blocked 0
+softirq 14320687436 78 1216469078 4032927 906101990 974959 0 31229913 4053989646 548005 3812373544
+@@meminfo
+MemTotal:       20240116 kB
+MemFree:         1846904 kB
+MemAvailable:   12930236 kB
+Buffers:          311860 kB
+Cached:          9634892 kB
+SwapCached:       643240 kB
+Active:          5401276 kB
+Inactive:        9437396 kB
+Active(anon):    3458384 kB
+Inactive(anon):  2195740 kB
+Active(file):    1942892 kB
+Inactive(file):  7241656 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:       8388604 kB
+SwapFree:        4859320 kB
+Zswap:                 0 kB
+Zswapped:              0 kB
+Dirty:              5388 kB
+Writeback:             0 kB
+AnonPages:       4805856 kB
+Mapped:          1455248 kB
+Shmem:            762316 kB
+KReclaimable:    2259044 kB
+Slab:            2919772 kB
+SReclaimable:    2259044 kB
+SUnreclaim:       660728 kB
+KernelStack:       35744 kB
+PageTables:       129168 kB
+SecPageTables:      4664 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    18508660 kB
+Committed_AS:   29693096 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      137068 kB
+VmallocChunk:          0 kB
+Percpu:            32960 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:    915456 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:    165888 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:           93432 kB
+Unaccepted:            0 kB
+Balloon:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:     1696552 kB
+DirectMap2M:    16951296 kB
+DirectMap1G:     3145728 kB
+@@loadavg
+1.05 1.25 2.01 2/2219 1186131
+@@uptime
+4351797.13 65443148.52
+@@netdev
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo: 95014118660 37612191    0    0    0     0          0         0 95014118660 37612191    0    0    0     0       0          0
+enp1s0: 10166514547885 6915462386    0    0    0     0          0   2045262 389839121999 941792734    0  133    0     0       0          0
+wlp2s0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+tailscale0: 589715564  869610    0    0    0     0          0         0 907089829  828770    0    0    0     0       0          0
+br-fe2b84bbadba: 1424459     676    0    0    0     0          0         0   309465    1889    0    8    0     0       0          0
+br-302223b1a4b1: 339727094  193979    0    0    0     0          0         0 219874666  187230    0    8    0     0       0          0
+br-4e7e3575126e: 5172789    4465    0    0    0     0          0         0 35037306    7395    0    8    0     0       0          0
+docker0: 816326500  598958    0    0    0     0          0         0 248964749  600953    0    8    0     0       0          0
+br-78a8a7df00af: 49810479276 15587772    0    0    0     0          0         0 51127723786 19172867    0    8    0     0       0          0
+br-a82205edccda: 820915674 1479693    0    0    0     0          0         0 636078660 1769313    0    8    0     0       0          0
+br-b7d75e8be18d: 29986104505 6443344    0    0    0     0          0         0 29041269831 7221230    0    8    0     0       0          0
+veth0e86bfe: 19118512766 54564048    0    0    0     0          0         0 29134028898 58067798    0    0    0     0       0          0
+vethbfc4b97:    2076      16    0    0    0     0          0         0   124754    1290    0    0    0     0       0          0
+veth7877fda: 297357382 4596268    0    0    0     0          0         0 297466769 4597532    0    0    0     0       0          0
+veth3aa4ea5: 1485931577 17382806    0    0    0     0          0         0 3510508612 26706233    0    0    0     0       0          0
+veth19746ed: 3321691     704    0    0    0     0          0         0   202550    2105    0    0    0     0       0          0
+vetha8d417a: 830731913 11682586    0    0    0     0          0         0 2774876602 10024172    0    0    0     0       0          0
+vethe8ead85: 107084097 1300362    0    0    0     0          0         0 189608396 1839762    0    0    0     0       0          0
+veth70dc189: 817493196  587975    0    0    0     0          0         0 56030747  588283    0    0    0     0       0          0
+vethf51706a: 298790659 4596935    0    0    0     0          0         0 297666931 4598159    0    0    0     0       0          0
+vethc06c6c9: 260560216750 27191856    0    0    0     0          0         0 21217658342 18782264    0    0    0     0       0          0
+veth02219e7: 49506479401 324351544    0    0    0     0          0         0 72101661934 487782662    0    0    0     0       0          0
+veth51d740d: 5397110174 2851142    0    0    0     0          0         0 738839896 3234637    0    0    0     0       0          0
+vethf8da0c4: 15655752865 6866379    0    0    0     0          0         0 1086872590 8764965    0    0    0     0       0          0
+veth285b865:     126       3    0    0    0     0          0         0   109577    1264    0    0    0     0       0          0
+veth25b8ee4:   75228      25    0    0    0     0          0         0   125062    1295    0    0    0     0       0          0
+vethf76e6ea: 3855968304 13450263    0    0    0     0          0         0 6447793769 14720994    0    0    0     0       0          0
+vetheb6f084: 2036269258 11322454    0    0    0     0          0         0 16317295202 9176688    0    0    0     0       0          0
+vethdb9a308: 125640655670 530074078    0    0    0     0          0         0 102120132488 360907188    0    0    0     0       0          0
+br-2a50a75db1ea: 15325380597  362459    0    0    0     0          0         0 179458331  200960    0    3    0     0       0          0
+vethd3bef10: 8210620529  187330    0    0    0     0          0         0 97543412  106219    0    0    0     0       0          0
+br-f36193ecd17f: 612569481  265088    0    0    0     0          0         0 16740069  208874    0    3    0     0       0          0
+vethd2af49c: 613672486  263842    0    0    0     0          0         0 16652339  207591    0    0    0     0       0          0
+vethf112572:  299853      98    0    0    0     0          0         0   162512     184    0    0    0     0       0          0
+veth29bb943: 8177008   75861    0    0    0     0          0         0 53038604   76322    0    0    0     0       0          0
+vethe266116: 2928794417 4844112    0    0    0     0          0         0 12036908869 5102328    0    0    0     0       0          0
+@@df
+Filesystem            1024-blocks       Used  Available Capacity Mounted on
+tmpfs                     2024012       7992    2016020       1% /run
+/dev/nvme0n1p2          959218776  150018140  760401304      17% /
+tmpfs                    10120056          0   10120056       0% /dev/shm
+tmpfs                        5120         12       5108       1% /run/lock
+efivarfs                      128         43         81      35% /sys/firmware/efi/efivars
+tmpfs                    10120056          0   10120056       0% /run/qemu
+/dev/nvme0n1p1            1098632       6288    1092344       1% /boot/efi
+tmpfs                     2024008        124    2023884       1% /run/user/1000
+//nas.local/photos 14981718344 8167033356 6814684988      55% /mnt/photo
+//nas.local/share   14981718344 8167033356 6814684988      55% /mnt/nas
+@@uname
+Linux 7.0.0-31-generic x86_64
+@@hostname
+homelab
+@@osrelease
+PRETTY_NAME="Ubuntu 24.04.4 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.4 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+@@conf
+clk_tck 100
+pagesize 4096
+@@snmp
+Ip: Forwarding DefaultTTL InReceives InHdrErrors InAddrErrors ForwDatagrams InUnknownProtos InDiscards InDelivers OutRequests OutDiscards OutNoRoutes ReasmTimeout ReasmReqds ReasmOKs ReasmFails FragOKs FragFails FragCreates OutTransmits
+Ip: 1 64 1152137964 0 6 22764579 0 0 1129372917 932310180 25 21494 0 0 0 0 0 0 0 955074756
+Icmp: InMsgs InErrors InCsumErrors InDestUnreachs InTimeExcds InParmProbs InSrcQuenchs InRedirects InEchos InEchoReps InTimestamps InTimestampReps InAddrMasks InAddrMaskReps OutMsgs OutErrors OutRateLimitGlobal OutRateLimitHost OutDestUnreachs OutTimeExcds OutParmProbs OutSrcQuenchs OutRedirects OutEchos OutEchoReps OutTimestamps OutTimestampReps OutAddrMasks OutAddrMaskReps
+Icmp: 220644 63 44 1847 973 0 0 0 72521 145259 0 0 0 0 222625 0 0 40 3103 0 0 0 0 147001 72521 0 0 0 0
+IcmpMsg: InType0 InType3 InType8 InType11 OutType0 OutType3 OutType8
+IcmpMsg: 145259 1847 72521 973 72521 3103 147001
+Tcp: RtoAlgorithm RtoMin RtoMax MaxConn ActiveOpens PassiveOpens AttemptFails EstabResets CurrEstab InSegs OutSegs RetransSegs InErrs OutRsts InCsumErrors
+Tcp: 1 200 120000 -1 2926884 475449 1741149 29614 10 1059823526 1020876753 569046 138 1841454 0
+Udp: InDatagrams NoPorts InErrors OutDatagrams RcvbufErrors SndbufErrors InCsumErrors IgnoredMulti MemErrors
+Udp: 68582402 2724 0 39588116 0 0 0 246043 0
+UdpLite: InDatagrams NoPorts InErrors OutDatagrams RcvbufErrors SndbufErrors InCsumErrors IgnoredMulti MemErrors
+UdpLite: 0 0 0 0 0 0 0 0 0
+@@diskstats
+   7       0 loop0 16 0 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   7       1 loop1 144 0 6356 61 0 0 0 0 0 32 61 0 0 0 0 0 0
+   7       2 loop2 161 0 6422 44 0 0 0 0 0 34 44 0 0 0 0 0 0
+   7       3 loop3 121 0 2070 47 0 0 0 0 0 46 47 0 0 0 0 0 0
+   7       4 loop4 110 0 2018 23 0 0 0 0 0 18 23 0 0 0 0 0 0
+   7       5 loop5 108 0 2014 24 0 0 0 0 0 19 24 0 0 0 0 0 0
+   7       6 loop6 9711 0 332552 1255 0 0 0 0 0 1265 1255 0 0 0 0 0 0
+   7       7 loop7 151 0 6358 40 0 0 0 0 0 23 40 0 0 0 0 0 0
+ 259       0 nvme0n1 17208948 2864892 936086402 1836479114 42560792 26846231 1855791562 1877307128 0 47988791 1534108915 364289 0 2082232768 2108165210 5804055 7124759
+ 259       1 nvme0n1p1 3850 13521 77576 883 3 0 10 24 0 98 926 21 0 15292816 18 0 0
+ 259       2 nvme0n1p2 17203146 2851371 935958130 1836478134 42560789 26846231 1855791552 1877307103 0 49423471 1526983133 364268 0 2066939952 2108165191 0 0
+   7      12 loop12 104 0 748 13 0 0 0 0 0 12 13 0 0 0 0 0 0
+   7       9 loop9 4999 0 141936 526 0 0 0 0 0 531 526 0 0 0 0 0 0
+   7      10 loop10 2515 0 89536 213 0 0 0 0 0 197 213 0 0 0 0 0 0
+   7       8 loop8 218652 0 4494348 4116 0 0 0 0 0 4145 4116 0 0 0 0 0 0
+   7      11 loop11 207217 0 3747898 4133480310 0 0 0 0 0 3874 4133480310 0 0 0 0 0 0
+   7      13 loop13 27578 0 2232530 2582 0 0 0 0 0 2634 2582 0 0 0 0 0 0
+   7      14 loop14 18513 0 366770 1403163742 0 0 0 0 0 30101335 1403163742 0 0 0 0 0 0
+   7      15 loop15 138546 0 2548652 2497 0 0 0 0 0 2448 2497 0 0 0 0 0 0
+   7      17 loop17 143 0 6408 35 0 0 0 0 0 29 35 0 0 0 0 0 0
+   7      18 loop18 245 0 10178 33 0 0 0 0 0 26 33 0 0 0 0 0 0
+   7      16 loop16 154 0 6518 29 0 0 0 0 0 24 29 0 0 0 0 0 0
+   7      21 loop21 96 0 702 14 0 0 0 0 0 15 14 0 0 0 0 0 0
+   7      19 loop19 149 0 6352 26 0 0 0 0 0 15 26 0 0 0 0 0 0
+   7      20 loop20 4837 0 217164 361 0 0 0 0 0 328 361 0 0 0 0 0 0
+   7      22 loop22 111 0 854 15 0 0 0 0 0 17 15 0 0 0 0 0 0
+   7      23 loop23 1871 0 14986 67 0 0 0 0 0 57 67 0 0 0 0 0 0
+   7      24 loop24 140129 0 2622054 2417 0 0 0 0 0 2367 2417 0 0 0 0 0 0
+   7      25 loop25 135 0 3242 21 0 0 0 0 0 21 21 0 0 0 0 0 0
+   7      27 loop27 385 0 22252 60 0 0 0 0 0 53 60 0 0 0 0 0 0
+   7      26 loop26 137 0 6446 26 0 0 0 0 0 21 26 0 0 0 0 0 0
+   7      28 loop28 261 0 11416 85 0 0 0 0 0 82 85 0 0 0 0 0 0
+   7      29 loop29 9311 0 358420 813 0 0 0 0 0 834 813 0 0 0 0 0 0
+   7      30 loop30 8225 0 115808 477 0 0 0 0 0 491 477 0 0 0 0 0 0
+   7      31 loop31 341 0 7970 18 0 0 0 0 0 19 18 0 0 0 0 0 0
+   7      32 loop32 1041 0 76188 369 0 0 0 0 0 344 369 0 0 0 0 0 0
+   7      34 loop34 120390 0 2200664 2525 0 0 0 0 0 2503 2525 0 0 0 0 0 0
+   7      36 loop36 237 0 4742 22 0 0 0 0 0 20 22 0 0 0 0 0 0
+   7      35 loop35 5522 0 444312 605 0 0 0 0 0 649 605 0 0 0 0 0 0
+   7      33 loop33 44 0 302 4 0 0 0 0 0 4 4 0 0 0 0 0 0
+   7      38 loop38 340 0 19018 30 0 0 0 0 0 28 30 0 0 0 0 0 0
+   7      37 loop37 128 0 3846 12 0 0 0 0 0 9 12 0 0 0 0 0 0
+   7      39 loop39 383 0 14346 94 0 0 0 0 0 84 94 0 0 0 0 0 0
+   7      40 loop40 19904 0 335054 812 0 0 0 0 0 756 812 0 0 0 0 0 0
+   7      41 loop41 106 0 1760 11 0 0 0 0 0 10 11 0 0 0 0 0 0
+   7      42 loop42 3780 0 293006 353 0 0 0 0 0 332 353 0 0 0 0 0 0
+   7      43 loop43 91 0 2712 1 0 0 0 0 0 4 1 0 0 0 0 0 0
+@@procs
+1 123229 87760 3486 systemd
+10 0 0 0 kworker/0:0H-kblockd
+100 0 0 0 cpuhp/14
+101 0 0 0 idle_inject/14
+102 0 1412 0 migration/14
+103 0 2057 0 ksoftirqd/14
+105 0 0 0 kworker/14:0H-kblockd
+10540 425464 69873 28847 [celeryd: celer
+10542 278 14 2047 python3
+10550 7252 569 4325 [celery beat] -
+10557 39 2 1965 granian asginl 
+106 0 0 0 cpuhp/15
+1067017 0 2 0 kworker/8:2-events
+10683 495510 41099 167955 granian asginl 
+107 0 0 0 idle_inject/15
+108 0 4091 0 migration/15
+1084298 0 0 0 kworker/1:0-events
+1088241 0 92 0 kworker/u64:1-flush-259:0
+109 0 1836 0 ksoftirqd/15
+111 0 0 0 kworker/15:0H-kblockd
+112 0 0 0 kdevtmpfs
+113 0 0 0 kworker/R-inet_frag_wq
+1136130 0 0 0 kworker/7:0-events
+1136549 0 18 0 kworker/4:0-events
+11397 0 1 2614 postgres
+114 0 0 0 rcu_tasks_kthread
+11406 0 1 2535 postgres
+1141095 0 38 0 kworker/u64:0-events_power_efficient
+1143686 0 6 0 kworker/6:0-events
+1144149 0 13 0 kworker/12:1-mm_percpu_wq
+115 0 0 0 rcu_tasks_rude_kthread
+1151847 0 5 0 kworker/3:2-events
+1152522 1087 66 158627 postgres
+1153517 0 5 0 kworker/5:1-events
+1154282 0 0 0 kworker/9:2-events
+1158680 0 10 0 kworker/15:0-mm_percpu_wq
+116 0 283 0 kauditd
+1161915 0 6 0 kworker/2:1-events
+1164508 0 10 0 kworker/7:1-events
+1167657 962 54 137991 postgres
+1167661 2189 66 139874 postgres
+1167662 1930 82 139105 postgres
+1167669 3159 101 138693 postgres
+1167672 2138 86 137834 postgres
+1167676 880 60 151134 postgres
+1167677 1040 55 150775 postgres
+1167678 907 59 139234 postgres
+1167680 2129 72 141520 postgres
+1167718 0 0 0 kworker/10:2
+1167747 0 1 2892 cupsd
+1167755 0 1 4838 cups-browsed
+1167840 0 9 0 kworker/4:2-events
+1167841 0 0 0 kworker/14:0-events
+1168036 0 0 0 kworker/0:2-cgroup_free
+1168314 0 0 0 kworker/12:2-events
+1168466 0 0 0 kworker/15:2
+1169148 0 0 0 kworker/13:0
+117 0 1457 0 khungtaskd
+1170387 0 8 0 kworker/1:1-events
+1172277 0 4 0 kworker/14:2-mm_percpu_wq
+1173180 0 5 0 kworker/11:0-events
+1173615 0 0 0 kworker/3:0-events
+1173860 0 11 0 kworker/u64:5-flush-259:0
+1173991 0 6 0 kworker/2:0-events
+1174050 0 5 0 kworker/13:2-events
+1175184 0 4 0 kworker/8:0-events
+1176319 0 6 0 kworker/0:1-events
+1176750 0 4 0 kworker/5:2-events
+1178130 0 7 0 kworker/u64:2-efi_rts_wq
+1178438 0 2 0 kworker/10:1-mm_percpu_wq
+1178812 0 3 0 kworker/6:2-events
+11789 3887 3769 5711 update-notifier
+118 0 0 0 oom_reaper
+1180396 0 2 0 kworker/9:1-mm_percpu_wq
+1180611 0 0 0 kworker/11:1
+1180682 22 8 6640 postgres
+1181739 0 1 0 kworker/7:2-mm_percpu_wq
+1182713 0 1 0 kworker/5:0-mm_percpu_wq
+1182782 0 1 0 kworker/8:1-mm_percpu_wq
+1182981 0 3 0 kworker/u64:3-dm_vblank_control_workqueue
+1183098 10 6 4274 postgres
+1183897 6 2 36137 [celeryd: celer
+1183900 0 0 0 kworker/0:0
+1184015 5 3 5179 postgres
+1184085 0 1 0 kworker/2:2-mm_percpu_wq
+1184249 5 3 5800 postgres
+1184458 0 0 0 kworker/3:1-events
+1184530 4 2 5721 postgres
+1184534 3 2 4931 postgres
+1185140 0 0 4227 postgres
+1185141 0 0 4234 postgres
+1185397 2 1 5414 postgres
+1185399 0 1 3513 postgres
+1185531 0 0 404 sleep
+1185554 0 1 4077 postgres
+1185605 0 0 3730 postgres
+1185653 0 0 2526 sshd
+1185793 0 0 1826 sshd
+1185795 4 1 436 sh
+1186128 0 0 397 sleep
+1186142 0 0 458 cat
+1186143 0 0 622 awk
+121 0 0 0 kworker/R-writeback
+122 0 159566 0 kcompactd0
+123 0 0 0 ksmd
+124 0 5642 0 khugepaged
+125 0 0 0 kworker/R-kblockd
+126 0 0 0 kworker/R-blkcg_punt_bio
+127 0 0 0 kworker/R-kintegrityd
+1279070 2974 204 1848 containerd-shim
+1279093 1 1 596 nginx
+1279148 23 31 898 docker-proxy
+1279185 1 5 601 nginx
+1279186 4 12 601 nginx
+1279187 4 30 599 nginx
+1279188 8 44 600 nginx
+1279189 6 31 602 nginx
+1279190 6 20 570 nginx
+1279191 8 31 607 nginx
+1279192 3 15 576 nginx
+1279193 0 4 577 nginx
+1279194 0 3 538 nginx
+1279195 0 2 569 nginx
+1279196 0 2 601 nginx
+1279197 1 0 522 nginx
+1279198 0 3 601 nginx
+1279199 1 4 600 nginx
+1279200 1 9 549 nginx
+128 0 0 0 irq/9-acpi
+13 0 0 0 kworker/R-mm_percpu_wq
+1300141 2339 694 8573 snapd
+132 0 0 0 kworker/R-tpm_dev_wq
+1326273 6969 2328 21742 ci-runner
+133 0 0 0 kworker/R-ata_sff
+134 0 0 0 kworker/R-md_bitmap
+135 0 0 0 kworker/R-md_llbitmap_io
+136 0 0 0 kworker/R-md_llbitmap_unplug
+137 0 0 0 kworker/R-edac-poller
+1372 17829 15607 1051 avahi-daemon
+1374 154725 29140 2037 dbus-daemon
+138 0 0 0 kworker/R-devfreq_wq
+1381 4798 5508 5306 polkitd
+1384 81 27 1736 power-profiles-
+139 0 0 0 watchdogd
+1397 18184 12395 2144 accounts-daemon
+14 0 8777 0 ksoftirqd/0
+1400 285 693 695 cron
+1401 9 9 1543 switcheroo-cont
+1403 29489 17838 1685 systemd-logind
+1405 571 703 2709 udisksd
+141 0 0 0 kworker/R-quota_events_unbound
+1429 0 0 300 avahi-daemon
+143 0 0 0 irq/29-AMD-Vi
+1437 11473 9731 4449 NetworkManager
+1439 706 939 1111 wpa_supplicant
+144 0 61830 0 kswapd0
+145 0 0 0 ecryptfs-kthread
+146 0 0 0 kworker/R-kthrotld
+1465 16718 16376 1451 rsyslogd
+148 0 0 0 irq/44-pciehp
+149 0 0 0 irq/46-aerdrv
+15 2 1035029 0 rcu_preempt
+150 0 0 0 irq/46-pciehp
+151 0 0 0 kworker/R-acpi_thermal_pm
+153 0 3815 0 hwrng
+154 0 0 0 kworker/R-mld
+1549 128 50 2231 ModemManager
+155 0 0 0 kworker/R-ipv6_addrconf
+1552 290 421 1838 boltd
+156 0 0 0 kworker/R-kstrp
+16 0 0 0 rcu_exp_par_gp_kthread_worker/0
+1639 0 0 635 runsvc.sh
+1642 30116 11557 2845 python3
+1649358 8 57 1155 dart:firmware-n
+1651671 30712 45085 18465 systemd-journal
+1651834 174 508 1639 systemd-timesyn
+1652012 146 356 1911 systemd-udevd
+1652016 0 0 0 psimon
+1652179 49055 8427 1664 systemd-oomd
+1652502 7680 5412 2674 systemd-resolve
+1658388 5 4 1215 bluetoothd
+1689 136106 67303 8503 tailscaled
+1694 4 1 2708 unattended-upgr
+17 0 7910 0 rcu_exp_gp_kthread_worker
+1700 807205 291493 7209 containerd
+1705 120061 24996 3155 systemd
+1712 7 5 2156 node
+1729932 13 63 1747 sshd
+1731 0 0 697 (sd-pam)
+176 0 0 0 kworker/R-charger_manager
+177 0 0 0 irq/30-ACPI:Event
+178 0 0 0 irq/31-ACPI:Event
+1789 1 1 2198 gdm3
+179 0 0 0 irq/32-ACPI:Event
+18 0 12585 0 migration/0
+180 0 0 0 irq/33-ACPI:Event
+181 0 0 0 irq/34-ACPI:Event
+182 0 0 0 irq/35-ACPI:Event
+183 0 0 0 irq/36-ACPI:Event
+184 0 0 0 irq/37-ACPI:Event
+1845 1 0 2299 gdm-session-wor
+185 0 0 0 irq/38-ACPI:Event
+186 0 0 0 irq/39-ACPI:Event
+187 0 0 0 irq/40-ACPI:Event
+188 0 0 0 irq/41-ACPI:Event
+1893732 0 0 823 run-helper.sh
+1893736 6750 2411 20235 ci-runner
+19 0 0 0 kprobe-optimizer
+1913427 2 1 1714 ibus-engine-sim
+1914 0 0 827 run.sh
+1916 521818 27692 3498 web-app
+1918 25 6 1319 node
+1920 18 16 2387 pipewire
+1921 0 0 1328 pipewire
+1923 7 14 928 user-session-he
+1926 39245 17247 12537 python3
+1927 52 43 3475 wireplumber
+1929 1 1 2207 pipewire-pulse
+1930 7 2 2225 gnome-keyring-d
+1965 270 78 1500 dbus-daemon
+1985 1520 1954 889 rtkit-daemon
+2 0 470 0 kthreadd
+20 0 0 0 idle_inject/0
+2002536 5 3 621 snap_launcher.s
+2002643 3802 514 3551 ollama
+2004 0 0 1455 gdm-wayland-ses
+2014 6 2 2914 gnome-session-b
+2084 4 2 1636 xdg-document-po
+2091 0 0 1452 xdg-permission-
+21 0 0 0 cpuhp/0
+2101 0 0 479 fusermount3
+22 0 0 0 cpuhp/1
+23 0 0 0 idle_inject/1
+2366087 4478 1572 1997 containerd-shim
+2366110 1 0 101 dumb-init
+2366123 159290 38497 28053 node
+2366221 222 564 346 nscd
+24 0 16553 0 migration/1
+2418112 2418 1408 2136 containerd-shim
+2418136 348 173 448 tini
+2418190 153 3 3618 python
+2418199 3297 2265 2105 containerd-shim
+2418223 349 175 328 tini
+2418249 356 607 1901 docker-proxy
+2418262 400754 70416 169495 photo-worker
+2418400 1750 270 10383 python
+2418498 11022 1923 205090 photo-api
+2432422 21866531 1106 6999 ffmpeg
+2486 0 0 0 krfcommd
+2491 0 0 1532 gcr-ssh-agent
+25 0 2182 0 ksoftirqd/1
+2501 10722 2834 29108 gnome-remote-de
+2503 0 0 1328 gnome-session-c
+2532 2 0 1786 gvfsd
+2548 0 0 1571 gvfsd-fuse
+2550 33 4 1276 node
+2560 93 50 3301 gnome-session-b
+2634 32590635 10192281 35102 gnome-shell
+2636 1 0 1846 at-spi-bus-laun
+2647 1 1 1088 dbus-daemon
+26731 6777 3427 9172 fwupd
+27 0 0 0 kworker/1:0H-kblockd
+2712128 491675 311007 8523 cloudflared
+2727 0 0 447 sh
+2728 8 2 1280 node
+2758 70168 13636 3352 node
+28 0 0 0 cpuhp/2
+2840 162402 107532 1368 esbuild
+29 0 0 0 idle_inject/2
+2985479 0 0 3581 postgres
+2991667 262 44 23612 soffice.bin
+3 0 0 0 pool_workqueue_release
+30 0 24999 0 migration/2
+3008 1 0 1736 at-spi2-registr
+3010 13 7 3033 colord
+3062544 7346 4470 2031 containerd-shim
+3062567 21183 3313 3178 python
+3062622 1419 515 1432 docker-proxy
+31 0 2962 0 ksoftirqd/2
+312 0 0 0 kworker/R-nvme-wq
+313 0 0 0 kworker/R-nvme-reset-wq
+314 0 0 0 kworker/R-nvme-delete-wq
+315 0 0 0 kworker/R-nvme-auth-wq
+3223582 1429 5434 501 start_mysql
+3223589 6 3 443 start-php-fpm
+3223591 22 120 412 cron-worker
+3223598 6 3 409 run-httpd
+3223608 6 4 459 renew-certs
+3223627 5 3 427 start-redis-ser
+3223968 108704 18335 1463 redis-server
+3224364 0 1 431 mysqld_safe
+3224640 137522 57687 27641 mysqld
+3224836 978 457 3856 php-fpm
+3225574 0 0 434 httpd-wrapper
+3225632 1083 536 1260 httpd
+3225633 0 0 1220 httpd
+3225634 0 0 1148 httpd
+3225635 0 0 1109 httpd
+3250 1 1 2062 gnome-shell-cal
+3257 18 17 4734 evolution-sourc
+3268 6 1 4011 gjs
+3269 77 22 1965 upowerd
+3278 35 8 2863 ibus-daemon
+3289 1 0 1621 gsd-a11y-settin
+3293 612 523 3878 gsd-color
+33 0 0 0 kworker/2:0H-kblockd
+3300 1 1 2201 gsd-datetime
+3304 15636 17119 1875 gsd-housekeepin
+3307 4 2 3771 gsd-keyboard
+3313 59 15 4214 gsd-media-keys
+3327 60 14 4137 gsd-power
+3328 21 23 2531 gsd-print-notif
+3332 84 18 1526 gsd-rfkill
+3333 1 0 1353 gsd-screensaver
+3334 188 39 2445 gsd-sharing
+3340 1 0 1695 gsd-smartcard
+3358 1 0 2278 gsd-sound
+3359 133 38 3411 goa-daemon
+3364 299 130 6828 evolution-alarm
+3372 5 2 3920 gsd-wacom
+34 0 0 0 cpuhp/3
+3405 237 44 1916 gsd-disk-utilit
+3437 0 0 1583 ibus-memconf
+3446 111 4 5681 ibus-extension-
+3451 2 0 1559 ibus-portal
+3466 15145 14112 2519 gvfs-udisks2-vo
+3496 153 52 3015 evolution-calen
+35 0 0 0 idle_inject/3
+3511 13467 9419 1857 goa-identity-se
+3535 0 0 1424 gvfs-goa-volume
+3543 136 46 3473 evolution-addre
+3550 1 0 1630 gvfs-gphoto2-vo
+356 0 1744 0 kworker/7:1H-kblockd
+3563 1 0 1564 gvfs-mtp-volume
+357 0 1098 0 kworker/6:1H-kblockd
+3573 5091 9181 1525 gvfs-afc-volume
+3596 11 3 4372 ibus-engine-lib
+36 0 22702 0 migration/3
+3621 2 1 1384 dconf-service
+3655 168 135 2053 gvfsd-trash
+37 0 2410 0 ksoftirqd/3
+3742 3050 3959 2645 xdg-desktop-por
+375 0 24270 0 jbd2/nvme0n1p2-8
+376 0 0 0 kworker/R-ext4-rsv-conversion
+39 0 0 0 kworker/3:0H-kblockd
+3994 4 1 4036 gjs
+4 0 0 0 kworker/R-rcu_gp
+40 0 0 0 cpuhp/4
+4053 0 0 3074 gsd-printer
+4054 2493 1169 5379 tracker-miner-f
+4058 36 15 4944 xdg-desktop-por
+4086 27 9 5149 xdg-desktop-por
+4092 4747 861 11640 gjs
+41 0 0 0 idle_inject/4
+4115 173 49 1922 snapd-desktop-i
+4116 0 0 1473 gvfsd-metadata
+42 0 7111 0 migration/4
+43 0 3146 0 ksoftirqd/4
+4361 1205374 590363 16466 dockerd
+4367 239 112 494 kerneloops
+4371 239 117 618 kerneloops
+4433 0 0 0 kworker/R-cifsiod
+4434 0 0 0 kworker/R-smb3decryptd
+4435 0 0 0 kworker/R-cifsfileinfoput
+4436 0 0 0 kworker/R-cifsoplockd
+4437 0 0 0 kworker/R-deferredclose
+4438 0 0 0 kworker/R-serverclose
+4439 0 0 0 kworker/R-cfid_put_wq
+4440 0 0 0 kworker/R-cifs-dfscache
+4442 0 1145732 0 cifsd
+4453 0 0 0 kworker/R-dio/nvme0n1p2
+45 0 0 0 kworker/4:0H-kblockd
+459 0 1418 0 kworker/2:1H-kblockd
+46 0 0 0 cpuhp/5
+460 0 1135 0 kworker/8:1H-kblockd
+463 0 1289 0 kworker/5:1H-kblockd
+47 0 0 0 idle_inject/5
+48 0 31756 0 migration/5
+49 0 2226 0 ksoftirqd/5
+490 0 1397 0 kworker/3:1H-kblockd
+493 0 821 0 kworker/15:1H-kblockd
+494 0 746 0 kworker/0:1H-kblockd
+5 0 0 0 kworker/R-sync_wq
+51 0 0 0 kworker/5:0H-kblockd
+519 0 700 0 kworker/11:1H-kblockd
+52 0 0 0 cpuhp/6
+522 0 496 0 kworker/1:1H-kblockd
+523 0 631 0 kworker/13:1H-kblockd
+524 0 861 0 kworker/10:1H-kblockd
+53 0 0 0 idle_inject/6
+54 0 5980 0 migration/6
+545 0 818 0 kworker/9:1H-kblockd
+5461 95411 58526 2090 containerd-shim
+5462 16611 951 2092 containerd-shim
+5466 24458 1577 1860 containerd-shim
+5468 26105 2823 2158 containerd-shim
+5471 17813 1818 2004 containerd-shim
+5473 17717 6383 2067 containerd-shim
+5494 16317 4063 1975 containerd-shim
+55 0 3019 0 ksoftirqd/6
+551 0 1089 0 kworker/4:1H-kblockd
+5527 39760 23407 2240 containerd-shim
+5591 14918 5233 2118 containerd-shim
+561422 0 0 426 sleep
+56474 4294 2522 2157 containerd-shim
+56497 1 1 357 sh
+56552 17 17 848 docker-proxy
+56665 0 0 676 nginx
+56666 34350 16833 1673 redis-server
+56667 4474 418 42593 next-server (v1
+56668 115 270 670 nginx
+57 0 0 0 kworker/6:0H-kblockd
+572 0 655 0 kworker/12:1H-kblockd
+5724 16219 5283 2014 containerd-shim
+58 0 0 0 cpuhp/7
+580 0 697 0 kworker/14:1H-kblockd
+5803 27623 3388 2226 containerd-shim
+5857 20911 1531 2090 containerd-shim
+5862 97403 60505 2133 containerd-shim
+5893 40780 23146 2156 containerd-shim
+59 0 0 0 idle_inject/7
+5909 44258 26559 2073 containerd-shim
+6 0 0 0 kworker/R-kvfree_rcu_reclaim
+60 0 23379 0 migration/7
+6043 543974 291430 2942 redis-server
+6045 838522 453338 2431 valkey-server
+6053 1051 18527 3112 postgres
+6072 1 1 199 sh
+6082 1740035 228215 1077 redis-server
+61 0 3194 0 ksoftirqd/7
+6100 21648 4624 1217 chromium
+6101 197422 158473 4987 java
+6106 63457 19883 5940 portainer
+6136 1084 15328 3780 postgres
+6156 48807 26777 2056 containerd-shim
+621 0 0 0 kworker/R-cfg80211
+6225 1343130 170583 127197 python3
+6232 2 1 0 s6-svscan
+6245 6154 130557 3709 postgres
+6249 905 10537 3871 postgres
+6254 7947 5085 0 tini
+6276 7662 5159 282 tini
+6292 1 2 0 s6-svscan
+63 0 0 0 kworker/7:0H-kblockd
+64 0 0 0 cpuhp/8
+65 0 0 0 idle_inject/8
+66 0 30674 0 migration/8
+6666 242 248 883 docker-proxy
+67 0 5192 0 ksoftirqd/8
+6717 618207 314801 1941 redis-server
+6756 5025 4103 1472 docker-proxy
+6893 240 253 885 docker-proxy
+69 0 0 0 kworker/8:0H-kblockd
+6925 11468 1128 3224 ollama
+6992 4946 3767 1331 docker-proxy
+7 0 0 0 kworker/R-slub_flushwq
+70 0 0 0 cpuhp/9
+707 0 0 0 irq/97-iwlwifi:default_queue
+708 0 0 0 irq/98-iwlwifi:queue_1
+709 0 0 0 irq/99-iwlwifi:queue_2
+71 0 0 0 idle_inject/9
+710 0 0 0 irq/100-iwlwifi:queue_3
+711 0 0 0 irq/101-iwlwifi:queue_4
+712 0 0 0 irq/102-iwlwifi:queue_5
+713 0 0 0 irq/103-iwlwifi:queue_6
+7131 259 294 1111 docker-proxy
+714 0 0 0 irq/104-iwlwifi:queue_7
+715 0 0 0 irq/105-iwlwifi:queue_8
+7151 169898 117854 1966 gotenberg
+716 0 0 0 irq/106-iwlwifi:queue_9
+717 0 0 0 irq/107-iwlwifi:queue_10
+718 0 0 0 irq/108-iwlwifi:queue_11
+7183 360018 167157 1034 meilisearch
+719 0 0 0 irq/109-iwlwifi:queue_12
+72 0 18202 0 migration/9
+720 0 0 0 irq/110-iwlwifi:queue_13
+721 0 0 0 irq/111-iwlwifi:queue_14
+722 0 0 0 irq/112-iwlwifi:exception
+73 0 1701 0 ksoftirqd/9
+7322 1 16 2020 postgres
+7323 0 7 1623 postgres
+7324 1 4 1547 postgres
+7325 2648 4469 13766 postgres
+7326 2312 1098 2190 postgres
+7337 0 0 0 s6-supervise
+7341 0 0 0 s6-linux-init-s
+7368 0 4 1119 postgres
+7369 0 0 1223 postgres
+7372 0 0 1139 postgres
+7373 7 26 1377 postgres
+7374 0 0 1080 postgres
+7375 0 1 1145 postgres
+7376 931 1618 4732 postgres
+7377 473 788 3773 postgres
+7379 1994 871 2241 postgres
+7380 1975 843 1743 postgres
+7393 0 0 0 s6-supervise
+7394 0 0 0 s6-supervise
+7395 0 0 0 s6-supervise
+7396 0 0 0 s6-supervise
+7402 0 0 0 s6-ipcserverd
+741639 2807 263 30075 python
+747 0 0 0 irq/113-ACP_PCI_IRQ
+75 0 0 0 kworker/9:0H-kblockd
+76 0 0 0 cpuhp/10
+7626 3 1 661 chromium
+7627 3 1 824 chromium
+7637 0 0 0 s6-supervise
+7650 0 0 0 s6-linux-init-s
+769105 0 0 0 psimon
+77 0 0 0 idle_inject/10
+7701 0 3 1051 postgres
+777 0 0 0 kworker/R-amdgpu-reset-dev
+78 0 5422 0 migration/10
+7869 0 0 0 s6-supervise
+7870 0 0 0 s6-supervise
+7871 0 0 0 s6-supervise
+7872 0 0 0 s6-supervise
+7873 0 0 0 s6-supervise
+787315 0 0 0 kworker/u65:2-ttm
+7874 0 0 0 s6-supervise
+7875 0 0 0 s6-supervise
+788897 0 0 0 kworker/u65:12-ttm
+7891 0 0 0 s6-ipcserverd
+79 0 1702 0 ksoftirqd/10
+8 0 0 0 kworker/R-netns
+803925 0 0 0 kworker/R-tls-strp
+81 0 0 0 kworker/10:0H-kblockd
+8143 14728 846 1033 chromium
+82 0 0 0 cpuhp/11
+827765 32 5 17660 check-new-relea
+8296 14020 2881 984 chromium
+83 0 0 0 idle_inject/11
+84 0 6362 0 migration/11
+85 0 1571 0 ksoftirqd/11
+8510 286817 214754 38971 java
+8611 2830567 435912 30426 MainThread
+8612 1116751 349864 28686 next-server (v
+87 0 0 0 kworker/11:0H-kblockd
+88 0 0 0 cpuhp/12
+89 0 0 0 idle_inject/12
+90 0 1369 0 migration/12
+9018 3834 1933 1950 postgres
+9019 651 680 1606 postgres
+9020 145 22 1499 postgres
+9037 49574 28284 2172 containerd-shim
+9066 161163 95266 13083 app-server
+9078 4415 2073 2049 postgres
+9079 654 667 1647 postgres
+9080 145 22 1479 postgres
+91 0 2045 0 ksoftirqd/12
+9103 6064 5655 1442 docker-proxy
+9112 20194 10785 1863 postgres
+9113 633 673 1447 postgres
+9114 138 20 1307 postgres
+9116 1527 3418 120943 postgres
+9117 2647 1812 117329 postgres
+9118 3730 2226 4746 postgres
+9121 1050 1757 2234 postgres
+9125 2848 11345 694 postgres
+9126 152 22 977 postgres
+9172 45016 23825 2116 containerd-shim
+9196 2917067 2328865 27665 api-gateway
+9223 7994 20599 1259 docker-proxy
+929 0 0 0 kworker/R-ttm
+93 0 0 0 kworker/12:0H-kblockd
+939 0 0 0 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+94 0 0 0 cpuhp/13
+940 0 0 0 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+941 0 0 0 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+942 0 0 0 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+943 0 0 0 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+944 0 0 0 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+945 0 0 0 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+946 0 0 0 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+947 0 0 0 kworker/R-dm_vblank_control_workqueue
+948 0 0 0 kworker/R-amdgpu_dm_hpd_wq
+949 0 0 0 card1-crtc0
+95 0 0 0 idle_inject/13
+950 0 0 0 card1-crtc1
+951 0 0 0 card1-crtc2
+952 0 0 0 card1-crtc3
+953 0 0 0 kworker/R-gfx_0.0.0
+954 0 0 0 kworker/R-comp_1.0.0
+955 0 0 0 kworker/R-comp_1.1.0
+956 0 0 0 kworker/R-comp_1.2.0
+957 0 0 0 kworker/R-comp_1.3.0
+958 0 0 0 kworker/R-comp_1.0.1
+959 0 0 0 kworker/R-comp_1.1.1
+96 0 8553 0 migration/13
+960 0 0 0 kworker/R-comp_1.2.1
+961 0 0 0 kworker/R-comp_1.3.1
+962 0 0 0 kworker/R-sdma0
+963 0 0 0 kworker/R-vcn_unified_0
+964 0 0 0 kworker/R-jpeg_dec
+97 0 1884 0 ksoftirqd/13
+99 0 0 0 kworker/13:0H-kblockd
+@@users
+alice       seat0        2026-09-24 15:31 (login screen)
+alice       tty2         2026-09-24 15:31 (tty2)
+@@docker
+6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b	app-1	postgres:16	running	Up 2 days (healthy)
+d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35	app-2	redis:7-alpine	running	Up 2 days (healthy)
+4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce	app-3	grafana/grafana:latest	running	Up 4 days (healthy)
+4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a	app-4	traefik:v3	running	Up 6 days (healthy)
+ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d	app-5	node:20-alpine	running	Up 7 days
+e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683	app-6	nginx:alpine	running	Up 3 weeks
+7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451	app-7	postgres:16	running	Up 7 weeks (healthy)
+2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3	app-8	redis:7-alpine	running	Up 7 weeks (healthy)
+19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7	app-9	grafana/grafana:latest	running	Up 7 weeks (healthy)
+4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5	app-10	traefik:v3	running	Up 7 weeks (healthy)
+4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8	app-11	node:20-alpine	running	Up 7 weeks (healthy)
+6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918	app-12	nginx:alpine	running	Up 7 weeks (healthy)
+3fdba35f04dc8c462986c992bcf875546257113072a909c162f7e470e581e278	app-13	postgres:16	running	Up 7 weeks (healthy)
+8527a891e224136950ff32ca212b45bc93f69fbb801c3b1ebedac52775f99e61	app-14	redis:7-alpine	running	Up 7 weeks (healthy)
+e629fa6598d732768f7c726b4b621285f9c3b85303900aa912017db7617d8bdb	app-15	grafana/grafana:latest	running	Up 7 weeks
+b17ef6d19c7a5b1ee83b907c595526dcb1eb06db8227d650d5dda0a9f4ce8cd9	app-16	traefik:v3	running	Up 7 weeks
+4523540f1504cd17100c4835e85b7eefd49911580f8efff0599a8f283be6b9e3	app-17	node:20-alpine	running	Up 7 weeks
+4ec9599fc203d176a301536c2e091a19bc852759b255bd6818810a42c5fed14a	app-18	nginx:alpine	running	Up 7 weeks
+9400f1b21cb527d7fa3d3eabba93557a18ebe7a2ca4e471cfe5e4c5b4ca7f767	app-19	postgres:16	running	Up 7 weeks
+f5ca38f748a1d6eaf726b8a42fb575c3c71f1864a8143301782de13da2d9202b	app-20	redis:7-alpine	running	Up 7 weeks (healthy)
+6f4b6612125fb3a0daecd2799dfd6c9c299424fd920f9b308110a2c1fbd8f443	app-21	grafana/grafana:latest	running	Up 7 weeks
+785f3ec7eb32f30b90cd0fcf3657d388b5ff4297f2f9716ff66e9b69c05ddd09	app-22	traefik:v3	running	Up 7 weeks
+535fa30d7e25dd8a49f1536779734ec8286108d115da5045d77f3b4185d8f790	app-23	node:20-alpine	running	Up 7 weeks
+c2356069e9d1e79ca924378153cfbbfb4d4416b1f99d41a2940bfdb66c5319db	app-24	nginx:alpine	running	Up 7 weeks
+@@thermal
+acpitz 20000
+iwlwifi_1 
+@@addr
+1: lo    inet 127.0.0.1/8 scope host lo\       valid_lft forever preferred_lft forever
+2: enp1s0    inet 192.0.2.20/24 brd 192.0.2.255 scope global noprefixroute enp1s0\       valid_lft forever preferred_lft forever
+2: enp1s0    inet6 fe80::1/64 scope link noprefixroute \       valid_lft forever preferred_lft forever
+4: tailscale0    inet 198.51.100.20/32 scope global tailscale0\       valid_lft forever preferred_lft forever
+5: br-fe2b84bbadba    inet 172.24.0.1/16 brd 172.24.255.255 scope global br-fe2b84bbadba\       valid_lft forever preferred_lft forever
+6: br-302223b1a4b1    inet 172.21.0.1/16 brd 172.21.255.255 scope global br-302223b1a4b1\       valid_lft forever preferred_lft forever
+7: br-4e7e3575126e    inet 172.25.0.1/16 brd 172.25.255.255 scope global br-4e7e3575126e\       valid_lft forever preferred_lft forever
+8: docker0    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0\       valid_lft forever preferred_lft forever
+9: br-78a8a7df00af    inet 172.26.0.1/16 brd 172.26.255.255 scope global br-78a8a7df00af\       valid_lft forever preferred_lft forever
+10: br-a82205edccda    inet 172.29.0.1/16 brd 172.29.255.255 scope global br-a82205edccda\       valid_lft forever preferred_lft forever
+11: br-b7d75e8be18d    inet 172.20.0.1/16 brd 172.20.255.255 scope global br-b7d75e8be18d\       valid_lft forever preferred_lft forever
+99: br-2a50a75db1ea    inet 172.18.0.1/16 brd 172.18.255.255 scope global br-2a50a75db1ea\       valid_lft forever preferred_lft forever
+430: br-f36193ecd17f    inet 172.19.0.1/16 brd 172.19.255.255 scope global br-f36193ecd17f\       valid_lft forever preferred_lft forever
+@@updates
+
+Expanded Security Maintenance for Applications is not enabled.
+
+142 updates can be applied immediately.
+22 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+5 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+@@reboot
+yes
